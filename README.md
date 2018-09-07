@@ -3,7 +3,7 @@ EchoExtractor
 
 Project description:
 --------------------
-This application was developed at The Health Services Research and Development division of the U.S. Department of Veterans Affairs (VA) as part of the VA Informatics and Computing Infrastructure (VINCI) initiative (http://department-of-veterans-affairs.github.io/Leo). System details and performance of the application is reported here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5469017/ 
+Disclaimer: This application was developed at The Health Services Research and Development division of the U.S. Department of Veterans Affairs (VA) as part of the VA Informatics and Computing Infrastructure (VINCI) initiative (http://department-of-veterans-affairs.github.io/Leo). System details and performance of the application is reported here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5469017/ 
 
 The goal of the current application is to extract Concept-Value pairs for metrics measured during an echocardiogram study. The input is a text document to be processed. The output is a dataset where each record represent a Concept-Value relationship. 
 
